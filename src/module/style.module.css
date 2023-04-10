@@ -1,0 +1,10 @@
+.model {
+    position: relative;
+    width: 100px;
+}
+.bg .glasses {
+    position: absolute;
+    top: 152px;
+    left: 628px;
+    width: 260px;
+}
